@@ -3,12 +3,12 @@ entries:
   demo-app:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-08T10:32:45.027610828Z"
+    created: "2025-10-08T11:02:18.159124543Z"
     description: A Helm chart for Kubernetes
-    digest: 438125cf81da4b58b5816330beed95c97a635e4831e4bab0894b7de8a26b8ffa
+    digest: d315c71cfa2afa26ec1b86ee1f36575710d44309db2feb2142c259a1c4406d8f
     name: demo-app
     type: application
     urls:
     - https://ruanbekker.github.io/demo-app-helm-chart/demo-app-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-08T10:32:45.026420235Z"
+generated: "2025-10-08T11:02:18.158468614Z"
