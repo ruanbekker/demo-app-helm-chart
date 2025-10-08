@@ -105,3 +105,12 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+
+## dependencies
+
+postgresql:
+  auth:
+    username: user
+    password: password
+    database: mydatabase
+
